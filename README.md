@@ -264,7 +264,8 @@ Supply-Chain-Analytics-Dashboard/
 
 ## Executive Overview
 
-Executive Overview.png
+Executive Overview.pn<img width="1312" height="732" alt="image" src="https://github.com/user-attachments/assets/1681baf6-32f5-4a59-a591-d0c59ad70c4d" />
+g
 
 ---
 
