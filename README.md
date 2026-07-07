@@ -271,6 +271,7 @@ g
 
 ## Supplier Performance
 
+<img width="1330" height="726" alt="image" src="https://github.com/user-attachments/assets/87ed6367-d533-413a-aab4-bbe7efa486b2" />
 
 
 ---
