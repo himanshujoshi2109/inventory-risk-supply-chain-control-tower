@@ -278,6 +278,7 @@ g
 
 ## Inventory Risk Analysis
 
+<img width="1291" height="732" alt="image" src="https://github.com/user-attachments/assets/3b00dd83-9140-48c6-a087-57f40fa7a7fd" />
 
 
 ---
