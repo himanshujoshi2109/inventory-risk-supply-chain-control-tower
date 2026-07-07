@@ -286,6 +286,7 @@ g
 ## Products & Demand Analysis
 
 
+<img width="1312" height="723" alt="image" src="https://github.com/user-attachments/assets/80f155ac-6935-4160-900a-51e5dd9a8729" />
 
 
 
